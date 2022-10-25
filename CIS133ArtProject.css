@@ -1,0 +1,10 @@
+body{
+    height: 100%;
+    background: border-box linear-gradient(Orange, Purple);
+    font-size: larger;
+
+}
+
+h1 {
+    font-family: Verdana;
+}

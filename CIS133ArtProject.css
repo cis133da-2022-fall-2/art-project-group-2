@@ -1,10 +1,14 @@
 body{
     height: 100%;
-    background: border-box linear-gradient(Orange, Purple);
+    background: border-box linear-gradient(Orange, rgb(0, 162, 255));
     font-size: larger;
 
 }
 
 h1 {
-    font-family: fantasy;
+    font-family:'Franklin Gothic Medium';
+}
+
+p{
+    font-size:x-large;
 }

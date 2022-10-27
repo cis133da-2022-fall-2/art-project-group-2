@@ -11,7 +11,7 @@ body{
 h1 {
     display: block;
     font-family:'Franklin Gothic Medium';
-    margin: 40px;
+    text-align: center;
 }
 
 p{
